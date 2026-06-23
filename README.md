@@ -26,7 +26,7 @@ A simple command-line Slot Machine game built using Python.
 5. Matching symbols on a line result in winnings.
 6. Continue playing until you choose to quit.
 
-## Project Structure
+## Project Structure:
 
 ```text
 slot_machine/
